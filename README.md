@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá, eu sou a Ana Vitoria de Sales Sousa!
 
-<!--
-**anavitoriassousa/anavitoriassousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+E esse é o meu Portfólio de projetos.
 
-Here are some ideas to get you started:
+- 📚 Atualmente estou estudando: Web Design
+- 😄 Pronomes: Ela/Dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##Linguagens que mais utilizo:
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
+  
+
+  ## REDE SOCIAL:
+
+  <a href="https://www.linkedin.com/in/ana-vit%C3%B3ria-de-s-37097a268/" target="_blank"></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank">
+
+  ## CONTATO:
+
+  <a href="https://web.telegram.org/k/" target="_blank"></a><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+
