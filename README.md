@@ -19,4 +19,5 @@ E esse é o meu Portfólio de projetos.
   ## CONTATO:
 
   <a href="https://web.telegram.org/k/" target="_blank"></a><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"></a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
