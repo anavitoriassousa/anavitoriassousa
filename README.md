@@ -15,3 +15,4 @@ E esse é o meu Portfólio de projetos.
   ## REDE SOCIAL:
 
   <a href="https://www.linkedin.com/in/ana-vit%C3%B3ria-de-s-37097a268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/anavitoriadevfront/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
